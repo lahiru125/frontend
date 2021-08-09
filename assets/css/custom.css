@@ -1,0 +1,165 @@
+.main {
+    padding-top: 40px;
+}
+
+.heading {
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    padding-bottom: 40px;
+}
+
+.full {
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 3px 3px 5px grey;
+    padding: 20px;
+}
+
+.local {
+    background-color: #fdeeee;
+}
+
+.global {
+    background-color: #ebebeb;
+}
+
+.local_global {
+    font-size: 25px;
+}
+
+.details {
+    text-align: center;
+}
+
+.data_row {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.red {
+    color: red;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.green {
+    color: rgb(5, 150, 0);
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.blue {
+    color: rgb(30, 0, 201);
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.yellow {
+    color: rgb(180, 168, 0);
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.orange {
+    color: rgb(245, 139, 0);
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.red_light {
+    color: red;
+    font-size: 25px;
+}
+
+.orange_light {
+    color: rgb(245, 139, 0);
+    font-size: 25px;
+}
+
+.updated_at {
+    color: gray;
+    float: right;
+    font-size: 15px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.help_guide {
+    font-size: 18px;
+    text-align: right;
+}
+
+.guide_card {
+    margin: 5px;
+    margin-bottom: 20px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 1px 1px 3px grey;
+    padding: 42px;
+    background-color: #f7f7f7;
+    margin-bottom: 20px;
+    word-wrap: break-word;
+}
+
+.guide_heading {
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.guide_description {
+    margin-bottom: 10px;
+    word-break: break-word;
+}
+
+.user_img {
+    margin-right: 15px;
+}
+
+.guides_user {
+    margin-bottom: 10px;
+    /* border-top: 1px solid #b1b1b1; */
+    border-bottom: 1px solid #b1b1b1;
+    padding-bottom: 8px;
+    padding-right: 8px;
+}
+
+.user_name {
+    color: #8d8d8d;
+}
+
+.delete_btn {
+    float: right;
+}
+
+.input_div {
+    margin-bottom: 30px;
+}
+
+.inputs {
+    background-color: rgb(231, 231, 231)
+}
+
+.alert-fixed {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    z-index: 9999;
+    border-radius: 0px;
+    text-align: center;
+}
+
+.user_card {
+    margin: 8px;
+    height: auto;
+    border-radius: 25px;
+    box-shadow: 1px 1px 3px grey;
+    /* padding: 1px; */
+    background-color: #ebebeb;
+    word-wrap: break-word;
+}
